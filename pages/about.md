@@ -8,26 +8,22 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="we5_016" padding="8em" %}
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About We Exist;Acknowledgements" %}
 
-## About CollectionBuilder CSV
+## About We Exist
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+*We Exist* is an ongoing six-part series looking at the history of Maine's African American communities. Series 5: Stories of African American Education and Employment in Maine examines where African American have learned and worked.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+## Acknowledgements
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+We are indebted to our partners at the [Osher Map Library](https://oshermaps.org/), [University of Southern Maine Special Collections](https://usm.maine.edu/special-collections/), and [University of Southern Maine Libraries](https://usm.maine.edu/library/) for their support in digitizing and building the exhibit site. This site was built by Libraries & Learning Digital Projects staff with the assistance of Special Collections,  Libraries & Learning, and Osher Map Library staff.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+**Research scholar**: Dr. Lance Gibbs (Race & Ethnic Studies and Talbot Fellow for the Gerald E. Talbot and African American Collections)
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+**Digital Projects staff**: Mary Holt (Digital Projects Manager) and Paul Fuller (Digital Projects Associate)
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+**Imaging, content creation, and project assistance**: Carrie Bell-Hoerth (Coordinator of the Gorham Library & Learning Commons), Elizabeth Chartrand (Digital Projects Assistant), Jessica Hovey (Operations and Communications Specialist for Osher Map Library and Smith Center for Cartographic Education), Nora Imbrahim (Digital Imaging Assistant for Osher Map Library and Smith Center for Cartographic Education), Megan MacGregor (Instruction and Outreach Librarian), Sara Naziri (Digital Projects Assistant), Shiloh Parker (Library Collections Manager), and Jill Piekut Roy (Special Collections Librarian).
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+**Administrative support**: Dr. Libby Bischof (Executive Director of Osher Map Library and Smith Center for Cartographic Education and Professor of History), Susie R. Bock (Coordinator of Special Collections and Director of the Jean Byers Sampson Center for Diversity in Maine), Zach Newell (Dean of Libraries & Learning, and David Nutty (Director Emeritus of Libraries & Learning).
