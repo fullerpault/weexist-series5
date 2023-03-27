@@ -8,9 +8,9 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://fullerpault.github.io
+url: acg-floating-204-197-4-76.acg.maine.edu
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /weexist-series5
+baseurl: /weexist5
 # location of code, the full url to your github repository
 source-code: https://github.com/fullerpault/weexist-series5
 
@@ -51,7 +51,7 @@ metadata: we5_metadata
 #   To remove the branding, comment out these values, or delete them. 
 #
 organization-name: "Digital Projects - University of Southern Maine Libraries & Learning"
-organization-link: https://usm.maine.edu/library/
+organization-link: https://digitalprojects.usm.maine.edu/
 organization-logo-banner: /assets/img/USMLogo_horizontal.png
 organization-logo-nav: /assets/img/USMLogo_horizontal_white.png
 
@@ -67,7 +67,7 @@ organization-logo-nav: /assets/img/USMLogo_horizontal_white.png
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-noindex: true 
+# noindex: true 
 
 ##########
 # BUILD SETTINGS 
